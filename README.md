@@ -2,4 +2,4 @@
 
 Input Element Date, Datetime, Datetime-local, Time, Month, Week.
 
-![tugas18](screen/tugas-18.png)
+<p align="center"><img src="screen/tugas-18.png" alt="Tugas 18" width="650"/></div></p>
